@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/pamuba/jasmin-ci.svg?branch=master)](https://travis-ci.com/pamuba/jasmin-ci)
